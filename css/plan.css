@@ -1,0 +1,42 @@
+/*** Investment plan ***/
+.investment-plan {
+  padding: 20px;
+  margin: 15px;
+  text-align: center;
+  display: grid;
+  width: 95%;
+}
+
+.investment-plan:hover {
+  transform: scale(1.05);
+}
+
+h2 {
+  font-size: 24px;
+  color: #16D5FF;
+}
+
+p {
+  font-size: 16px;
+  color: #333;
+}
+
+
+.transaction-history {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #16D5FF;
+}
+
+
+/*** Investment plan ***/
